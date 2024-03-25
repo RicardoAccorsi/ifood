@@ -28,24 +28,27 @@ After conducting thorough analysis and clustering of the customer data, three di
 </p>
 
 ### Cluster 0:
-- This cluster represents customers with high income and high expenditure.
-- They are very likely not to have children.
-- These customers are more inclined to accept campaigns compared to other clusters.
-- Interestingly, this cluster does not include individuals with basic education.
-- There is no particular age profile that stands out within this cluster.
-
+  - Renda baixa
+  - Gasto baixo
+  - Provavelmente tem filhos
+  - Baixa propensão a aceitar campanhas
+  - Único cluster com percentagem significativa de pessoas com escolaridade básica
+  - Pessoas mais jovens
+    
 ### Cluster 1:
-- This cluster consists of individuals with low income and low expenditure.
-- They are likely to have children.
-- However, they have a low propensity to accept campaigns.
-- Notably, this cluster is the only one with a significant percentage of people with basic education.
-- Additionally, individuals in this cluster tend to be younger.
+  - Renda intermediária
+  - Gasto intermediário
+  - Provavelmente tem filhos
+  - Podem aceitar campanhas
+  - Pessoas com idade mais elevada
 
 ### Cluster 2:
-- Customers in this cluster have intermediate levels of income and expenditure.
-- They are likely to have children.
-- While they may accept campaigns, their response rate might not be as high as other clusters.
-- This cluster is characterized by older individuals.
+  - Renda alta
+  - Gasto alto
+  - Muito provavelmente não tem filhos
+  - Mais propenso a aceitar campanhas
+  - Cluster sem pessoas com escolaridade básica
+  - Sem perfil de idade que se destaque
 
 ### Model Comparison
 <p align="center">
