@@ -22,11 +22,6 @@ After conducting thorough analysis and clustering of the customer data, three di
   <img src="reports/clusters_segmentation.png" alt="Clusters Observation" width="600" height="300">
 </p>
 
-### Clusters Profile
-<p align="center">
-  <img src="reports/clusters_profile.png" alt="Clusters Profile" width="600" height="400">
-</p>
-
 ### Cluster 0:
   - Renda baixa
   - Gasto baixo
