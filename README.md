@@ -36,8 +36,9 @@ After conducting thorough analysis and clustering of the customer data, three di
 - These customers are more inclined to accept campaigns compared to other clusters.
 - Interestingly, this cluster does not include individuals with basic education.
 - There is no particular age profile that stands out within this cluster.
+  
 
-Additionally, for classification, logistic regression was considered the best method. It obtained a mean accuracy of 80%, a ROC AUC of 0.78, and an AUPRC of 0.59. These insights provide valuable information for targeted marketing strategies. By understanding the distinct characteristics of each customer segment, iFood can tailor its campaigns to effectively engage with different customer groups and maximize campaign success.
+Additionally, aiming at predicting positive or bad responses from campaigns, the logistic regression algorithm was considered the best method. It obtained a mean accuracy of 80%, a ROC AUC of 0.78, and an AUPRC of 0.59 after parameter tuning through gridsearch methods. These insights provide valuable information for targeted marketing strategies. By understanding the distinct characteristics of each customer segment, iFood can tailor its campaigns to effectively engage with different customer groups and maximize campaign success.
 
 ## Deliverables
 - **Exploratory Data Analysis (EDA):** Detailed analysis and visualization of customer data, providing insights into customer characteristics and behavior.
