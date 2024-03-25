@@ -17,8 +17,8 @@ Predictive models were built using classification algorithms to identify custome
 
 After conducting thorough analysis and clustering of the customer data, three distinct clusters representing different segments of the customer base were identified. Here are the key characteristics of each cluster:
 
-![Clusters Observation][reports/clusters_segmentation.png "Clusters Observation"]
-![Clusters Profile][reports/clusters_profile.png "Clusters Profile"]
+![Clusters Observation](reports/clusters_segmentation.png "Clusters Observation")
+![Clusters Profile](reports/clusters_profile.png "Clusters Profile")
 
 ### Cluster 0:
 - This cluster consists of individuals with low income and low expenditure.
@@ -40,7 +40,7 @@ After conducting thorough analysis and clustering of the customer data, three di
 - Interestingly, this cluster does not include individuals with basic education.
 - There is no particular age profile that stands out within this cluster.
   
-![Model Comparison][reports/models_performance.png "Model Comparison"]
+![Model Comparison](reports/models_performance.png "Model Comparison")
 
 Additionally, aiming at predicting positive or bad responses from campaigns, the logistic regression algorithm was considered the best method. It obtained a mean accuracy of 80%, a ROC AUC of 0.78, and an AUPRC of 0.59 after parameter tuning through gridsearch methods. These insights provide valuable information for targeted marketing strategies. By understanding the distinct characteristics of each customer segment, iFood can tailor its campaigns to effectively engage with different customer groups and maximize campaign success.
 
