@@ -23,27 +23,27 @@ After conducting thorough analysis and clustering of the customer data, three di
 </p>
 
 ### Cluster 0:
-  - Renda baixa
-  - Gasto baixo
-  - Provavelmente tem filhos
-  - Baixa propensão a aceitar campanhas
-  - Único cluster com percentagem significativa de pessoas com escolaridade básica
-  - Pessoas mais jovens
+  - Low income
+  - Low spending
+  - Likely to have children
+  - Low propensity to accept marketing campaigns
+  - Only cluster with a significant proportion of individuals with basic education
+  - Younger individuals
     
 ### Cluster 1:
-  - Renda intermediária
-  - Gasto intermediário
-  - Provavelmente tem filhos
-  - Podem aceitar campanhas
-  - Pessoas com idade mais elevada
+  - Intermediate income
+  - Intermediate spending
+  - Likely to have children
+  - Moderate likelihood of accepting marketing campaigns
+  - Older individuals
 
 ### Cluster 2:
-  - Renda alta
-  - Gasto alto
-  - Muito provavelmente não tem filhos
-  - Mais propenso a aceitar campanhas
-  - Cluster sem pessoas com escolaridade básica
-  - Sem perfil de idade que se destaque
+  - High income
+  - High spending
+  - Very unlikely to have children
+  - More likely to accept marketing campaigns
+  - No individuals with only basic education
+  - No distinct age profile
 
 ### Model Comparison
 <p align="center">
